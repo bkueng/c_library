@@ -996,6 +996,7 @@ typedef enum ESTIMATOR_STATUS_FLAGS
 #include "./mavlink_msg_debug_vect.h"
 #include "./mavlink_msg_named_value_float.h"
 #include "./mavlink_msg_named_value_int.h"
+#include "./mavlink_msg_gps_rtcm_data.h"
 #include "./mavlink_msg_statustext.h"
 #include "./mavlink_msg_debug.h"
 
